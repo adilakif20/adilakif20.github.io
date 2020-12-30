@@ -1,4 +1,4 @@
-## Introduction
+## Welcome!
 Welcome to my personal page! Here you can see a portfolio of projects that I have worked on.
 
 
