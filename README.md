@@ -1,5 +1,5 @@
 ## Welcome!
-Welcome to my personal page! Here you can see a portfolio of projects that I have worked on.
+Welcome to my personal page! Here you can see my project portfolio.
 
 
 ## Python Projects
@@ -13,9 +13,18 @@ Welcome to my personal page! Here you can see a portfolio of projects that I hav
 ## Matlab Projects
 Coming Soon!
 
+<br/><br/>
 
-<br/>
+<!-- Social Links -->
+[<img src="images/linkedin.png" height="32">](https://www.linkedin.com/in/adilakif20)
+&nbsp;&nbsp;
+[<img src="images/facebook.png" height="35">](https://www.facebook.com/adilakif20)
+&nbsp;&nbsp;&nbsp;
+[<img src="images/github.png" height="34">](https://github.com/adilakif20)
+
 <!-- Copyright Notice -->
 <font size=2>
 Copyright &copy; 2020 Adil Akif. All Rights Reserved.
+<br/>
+All trademarks are property of their respective owners, including the LinkedIn, Facebook and GitHub logos.
 </font>
